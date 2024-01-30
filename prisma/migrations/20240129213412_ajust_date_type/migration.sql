@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Movies" ALTER COLUMN "createdAt" SET DATA TYPE DATE,
+ALTER COLUMN "releaseDate" SET DATA TYPE DATE;
